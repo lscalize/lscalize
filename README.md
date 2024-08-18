@@ -24,4 +24,4 @@
 
 ### **Main Skills**
 
-- Python, SQL, Tableau, Power BI, Looker Studio.
+- Python, Machine Learning, SQL, Tableau, Power BI, Looker Studio.

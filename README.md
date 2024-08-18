@@ -7,8 +7,7 @@
 ### **Background and Experience**
 
 - **Business and Data Expertise**:
-  - Extensive experience in both business and data, traditionally in an 80/20 split favoring business.
-  - Specializing in shifting towards a data-centric role while maintaining a strong business acumen.
+   - Specializing in shifting towards a data-centric role while maintaining a strong business acumen.
 
 ### **Current and Future Goals**
 
@@ -22,4 +21,5 @@
 
 - **Impact-Driven Data Utilization**:
   - Utilize data to concentrate on the 20% of efforts that generate 80% of the impact.
+
 

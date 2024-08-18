@@ -1,5 +1,3 @@
-Sure, here is the formatted text with the appropriate markdown syntax for GitHub:
-
 ```markdown
 # README.md
 

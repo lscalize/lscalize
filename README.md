@@ -1,6 +1,3 @@
-```markdown
-# README.md
-
 ## **Career Shift Towards Data Science**
 
 ---
@@ -24,7 +21,3 @@
 - **Impact-Driven Data Utilization**:
   - Utilize data to concentrate on the 20% of efforts that generate 80% of the impact.
 
----
-
-This README serves as a summary of my career shift and aspirations, highlighting my journey towards becoming a data scientist with a strong foundation in business. My goal is to blend these domains to maximize efficiency and impact.
-```

@@ -22,4 +22,6 @@
 - **Impact-Driven Data Utilization**:
   - Utilize data to concentrate on the 20% of efforts that generate 80% of the impact.
 
+### **Main Skills**
 
+- Python, SQL, Tableau, Power BI, Looker Studio.

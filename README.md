@@ -17,7 +17,7 @@
   - Comprometido em manter o engajamento com aspectos de negócios e marketing, aproveitando minha experiência e formação.
   
 - **Expertise em dados**:
-  - Objetivo de me tornar um especialista em dados com um foco primário em dados (80%) e um foco complementar em negócios (20%).
+  - Objetivo de me tornar um especialista em dados com um foco primário em dados e um foco complementar em negócios.
 
 ### **Foco Principal**
 

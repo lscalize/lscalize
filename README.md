@@ -1,6 +1,6 @@
 # **Leandro de Lima Scalize Pacheco**
 
-## **Transição de Carreira para Cientista|Especialista de Dados**
+## **Transição de Carreira para Cientista | Especialista de Dados**
 
 ---
 
@@ -16,7 +16,7 @@
 - **Paixão por Negócios**:
   - Comprometido em manter o engajamento com aspectos de negócios, aproveitando minha experiência e paixão.
   
-- **Data Expertise**:
+- **Expertise em dados**:
   - Objetivo de me tornar um especialista em dados com um foco primário em dados (80%) e um foco complementar em negócios (20%).
 
 ### **Foco Principal**

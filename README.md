@@ -1,27 +1,29 @@
 # **Leandro de Lima Scalize Pacheco**
 
-## **Career Shift Towards Data Science**
+## **Transição de Carreira para Cientista|Especialista de Dados**
 
 ---
 
-### **Background and Experience**
+### **Experiência e Formação**
 
-- **Business and Data Expertise**:
-   - Specializing in shifting towards a data-centric role while maintaining a strong business acumen.
+- **Expertise em Negócios e Dados**:
+   - Especialização em transição para um papel cada vez mais centrado em dados, mantendo a experiência em negócios.
+   - Formado em Publicidade e Marketing
+   - Com mais de 15 anos de experiência em diversas áreas relacionadas ao marketing analítico, negócios e, mais recentemente, com um foco maior em ciência de dados.
 
-### **Current and Future Goals**
+### **Objetivos Atuais e Futuros*
 
-- **Business Passion**:
-  - Committed to staying engaged with business aspects, leveraging my background and passion.
+- **Paixão por Negócios**:
+  - Comprometido em manter o engajamento com aspectos de negócios, aproveitando minha experiência e paixão.
   
 - **Data Expertise**:
-  - Aim to become a data expert with a primary focus on data (80%) and a complementary focus on business (20%).
+  - Objetivo de me tornar um especialista em dados com um foco primário em dados (80%) e um foco complementar em negócios (20%).
 
-### **Core Focus**
+### **Foco Principal**
 
-- **Impact-Driven Data Utilization**:
-  - Utilize data to concentrate on the 20% of efforts that generate 80% of the impact.
+- **Utilização de Dados**:
+  - Concentrar-se nos 20% dos esforços que geram 80% do impacto.
 
-### **Main Skills**
+### **Principais Habilidades**
 
 - Python, Machine Learning, SQL, Tableau, Power BI, Looker Studio.

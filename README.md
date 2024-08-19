@@ -11,7 +11,7 @@
    - Formado em Publicidade e Marketing | Pós-graduado em Administração de Empresas
    - Com mais de 15 anos de experiência em diversas áreas relacionadas ao marketing analítico, negócios e, mais recentemente, com um foco maior em ciência de dados.
 
-### Objetivos Atuais e Futuros*
+### Objetivos Atuais e Futuros
 
 - **Paixão por Negócios**:
   - Comprometido em manter o engajamento com aspectos de negócios e marketing, aproveitando minha experiência e formação.

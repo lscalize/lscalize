@@ -14,7 +14,7 @@
 ### **Objetivos Atuais e Futuros*
 
 - **Paixão por Negócios**:
-  - Comprometido em manter o engajamento com aspectos de negócios, aproveitando minha experiência e paixão.
+  - Comprometido em manter o engajamento com aspectos de negócios e marketing, aproveitando minha experiência e formação.
   
 - **Expertise em dados**:
   - Objetivo de me tornar um especialista em dados com um foco primário em dados (80%) e um foco complementar em negócios (20%).

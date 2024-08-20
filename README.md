@@ -1,6 +1,6 @@
 # **Leandro de Lima Scalize Pacheco**
 
-## **Transição de Carreira para Cientista | Especialista de Dados**
+## **Em transição de uma Carreira em Negócios|MKT para Dados**
 
 ---
 

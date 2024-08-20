@@ -19,10 +19,8 @@
 - **Expertise em dados**:
   - Objetivo de me tornar um especialista em dados com um foco primário em dados e um foco complementar em negócios.
 
-### **Foco Principal**
-
 - **Utilização de Dados**:
-  - Concentrar-se nos 20% dos esforços que geram 80% do impacto.
+  - Focado em maximizar resultados ao direcionar esforços nos 20% das ações que geram 80% do impacto.
 
 ### **Principais Habilidades**
 

@@ -1,6 +1,6 @@
 # Leandro de Lima Scalize Pacheco
 
-## Especialista|Cientista de Dados em Desenvolvimento
+## Especialista|Cientista de Dados em constante desenvolvimento
 
 ### Resumo
 

@@ -1,6 +1,6 @@
 # **Leandro de Lima Scalize Pacheco**
 
-## **Em transição de uma Carreira em Negócios|MKT para Dados**
+## **Em transição de uma carreira em Negócios|MKT para Dados**
 
 ---
 

@@ -38,7 +38,7 @@ Com mais de 15 anos de experiência em marketing analítico e negócios, estou e
 
 ### Objetivos
 
-Estou focado em consolidar minha carreira como Cientista de Dados, aplicando técnicas avançadas de análise e modelagem para resolver desafios empresariais e gerar insights valiosos. 
+Estou focado em consolidar minha carreira como especialista/cientista de dados, aplicando técnicas avançadas de análise e modelagem para resolver desafios empresariais e gerar insights valiosos. 
 Busco oportunidades que me permitam alavancar minha experiência em negócios e marketing, ao mesmo tempo em que aplico minha paixão por dados e machine learning.
 
 ---

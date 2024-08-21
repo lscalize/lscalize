@@ -4,7 +4,7 @@
 
 ### Resumo
 
-Com mais de 15 anos de experiência em marketing analítico e negócios, estou em transição para uma carreira focada em ciência de dados. Tenho ampla experiência em transformar dados brutos em insights acionáveis que impulsionam o crescimento dos negócios. Meu objetivo é combinar minha expertise em negócios com habilidades avançadas em análise de dados e machine learning para resolver problemas complexos e gerar valor significativo.
+Com mais de 15 anos de experiência em marketing analítico e negócios, estou em transição para uma carreira focada em dados. Tenho ampla experiência em transformar dados brutos em insights acionáveis que impulsionam o crescimento dos negócios. Meu objetivo é combinar minha expertise em negócios com habilidades avançadas em análise de dados e machine learning para resolver problemas complexos e gerar valor significativo.
 
 ### Experiência Profissional
 

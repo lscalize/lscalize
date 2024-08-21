@@ -1,27 +1,44 @@
-# **Leandro de Lima Scalize Pacheco**
+# Leandro de Lima Scalize Pacheco
 
-## **Em transição de uma carreira em Negócios|MKT para Dados**
+## Cientista de Dados em Transição
+
+### Resumo
+
+Com mais de 15 anos de experiência em marketing analítico e negócios, estou em transição para uma carreira focada em ciência de dados. Tenho ampla experiência em transformar dados brutos em insights acionáveis que impulsionam o crescimento dos negócios. Meu objetivo é combinar minha expertise em negócios com habilidades avançadas em análise de dados e machine learning para resolver problemas complexos e gerar valor significativo.
+
+### Experiência Profissional
+
+- **Coordenador Senior de Dados | Kokku** (Julho 2023 - Presente)
+ 
+- **Coordenador de CRM e BI | Creditas** (Agosto 2022 - Maio 2023)
+
+- **Gerente de Análise de Dados e Marketing | Newcore App** (Outubro 2020 - Agosto 2022)
+
+### Formação Acadêmica
+
+- **MBA em Administração de Empresas** | Fundação Getulio Vargas, 2011
+- **Bacharelado em Propaganda e Marketing** | Universidade Presbiteriana Mackenzie, 2008
+
+### Certificações
+
+- **Machine Learning & Data Science com Python** | Udemy, 2024
+- **Desenvolvimento de Dashboards com Looker Studio** | Udemy, 2023
+- **Tableau Master Class** | Udemy, 2023
+- **SQL para Análise de Dados: do Básico ao Avançado** | Udemy, 2023
+
+### Habilidades Técnicas
+
+- **Linguagens de Programação:** Python, SQL
+- **Ferramentas de Visualização:** Power BI, Tableau, Looker Studio
+- **Machine Learning:** Scikit-learn, StatsModels, ARIMA, Prophet
+- **Análise de Dados:** Pandas, NumPy, Matplotlib, Seaborn
+
+### Objetivos
+
+Estou focado em consolidar minha carreira como Cientista de Dados, aplicando técnicas avançadas de análise e modelagem para resolver desafios empresariais e gerar insights valiosos. Busco oportunidades que me permitam alavancar minha experiência em negócios e marketing, ao mesmo tempo em que aplico minha paixão por dados e machine learning.
 
 ---
 
-### **Experiência e Formação**
-
-- **Expertise em Negócios e Dados**:
-   - Em transição para um papel cada vez mais centrado em dados.
-   - Formado em Publicidade e Marketing | Pós-graduado em Administração de Empresas
-   - Com mais de 15 anos de experiência em diversas áreas relacionadas ao marketing analítico, negócios e, mais recentemente, com um foco maior em ciência de dados.
-
-### Objetivos Atuais e Futuros
-
-- **Paixão por Negócios**:
-  - Comprometido em manter o engajamento com aspectos de negócios e marketing, aproveitando minha experiência e formação.
-  
-- **Expertise em dados**:
-  - Objetivo de me tornar um especialista em dados com um foco primário em dados e um foco complementar em negócios.
-
-- **Utilização de Dados**:
-  - Focado em maximizar resultados ao direcionar esforços nos 20% das ações que geram 80% do impacto.
-
-### **Principais Habilidades**
-
-- Python, Machine Learning, SQL, Tableau, Power BI, Looker Studio.
+📧 **Email:** leandro.scalize@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/leandroscalize](https://www.linkedin.com/in/leandroscalize/)  
+🔗 **GitHub:** [github.com/lscalize](https://github.com/lscalize)

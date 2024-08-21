@@ -7,7 +7,7 @@
 ### **Experiência e Formação**
 
 - **Expertise em Negócios e Dados**:
-   - Em transição para um papel cada vez mais centrado em dados, mantendo a experiência em negócios.
+   - Em transição para um papel cada vez mais centrado em dados.
    - Formado em Publicidade e Marketing | Pós-graduado em Administração de Empresas
    - Com mais de 15 anos de experiência em diversas áreas relacionadas ao marketing analítico, negócios e, mais recentemente, com um foco maior em ciência de dados.
 

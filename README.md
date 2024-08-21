@@ -19,6 +19,9 @@ Com mais de 15 anos de experiência em marketing analítico e negócios, estou e
 - **MBA em Administração de Empresas** | Fundação Getulio Vargas, 2011
 - **Bacharelado em Propaganda e Marketing** | Universidade Presbiteriana Mackenzie, 2008
 
+### Cursos em Andamento
+- **Ciência de Dados Impressionador (215h)** | Hashtag Treinamentos, Previsão de término Dez/24
+
 ### Certificações
 
 - **Machine Learning & Data Science com Python** | Udemy, 2024
